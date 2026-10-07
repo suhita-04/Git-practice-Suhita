@@ -1,4 +1,9 @@
-"# Git Practice Project" 
-"**Author:** Your Full Name" 
-"" 
-"This project is a practical assignment for practicing Git and GitHub workflows." 
+# Git Practice Project 
+**Author:** Suhita 
+ 
+## Description 
+A practical assignment covering Git and GitHub workflows. 
+ 
+## Features 
+- Basic calculator utilities 
+- Date and time display 
